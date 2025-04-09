@@ -277,6 +277,11 @@ kubectl config rename-context long-context-name my-cluster
 ---
 
 ## 🧭 Project: https://github.com/gaurav012005/full-stack_chatApp
+## 📋 Kubernetes Commands Cheat Sheet
+
+This cheat sheet provides a quick reference for essential `kubectl` commands across cluster management, pods, services, config maps, namespaces, and more.
+
+![Kubernetes Commands Cheat Sheet](./kubernetes-cheat-sheet.jpg)
 
 
 
