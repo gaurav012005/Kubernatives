@@ -276,12 +276,7 @@ kubectl config rename-context long-context-name my-cluster
 
 ---
 
-## 🧭 Follow Along
+## 🧭 Project: https://github.com/gaurav012005/full-stack_chatApp
 
-📘 Bookmark this guide  
-🌟 Star the repo  
-🛠️ Contribute YAML templates  
-💬 Open issues if you're stuck!
 
----
 
